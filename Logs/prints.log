@@ -1,0 +1,78 @@
+01-17-21-13-38-25 [main] INFO  Framework.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-13-38-26 [main] INFO  Framework.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-13-38-26 [main] INFO  Framework.LandingPageTest - Navigated to Login Page
+01-17-21-13-38-30 [main] DEBUG Framework.LandingPageTest - Clicked on Login Button
+01-17-21-13-38-38 [main] INFO  Framework.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-13-38-38 [main] INFO  Framework.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-14-20-02 [main] INFO  Framework.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-14-20-03 [main] INFO  Framework.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-14-20-03 [main] INFO  Framework.LandingPageTest - Navigated to Login Page
+01-17-21-14-20-08 [main] DEBUG Framework.LandingPageTest - Clicked on Login Button
+01-17-21-14-20-16 [main] INFO  Framework.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-14-20-17 [main] INFO  Framework.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-17-36-39 [main] INFO  testSuite.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-17-36-39 [main] INFO  testSuite.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-17-36-40 [main] INFO  testSuite.LandingPageTest - Navigated to Login Page
+01-17-21-17-36-44 [main] DEBUG testSuite.LandingPageTest - Clicked on Login Button
+01-17-21-17-36-53 [main] INFO  testSuite.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-17-36-54 [main] INFO  testSuite.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-17-42-24 [main] INFO  testSuite.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-17-42-25 [main] INFO  testSuite.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-17-42-25 [main] INFO  testSuite.LandingPageTest - Navigated to Login Page
+01-17-21-17-42-29 [main] DEBUG testSuite.LandingPageTest - Clicked on Login Button
+01-17-21-17-42-38 [main] INFO  testSuite.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-17-42-38 [main] INFO  testSuite.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-17-45-15 [main] INFO  testSuite.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-17-45-16 [main] INFO  testSuite.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-17-45-16 [main] INFO  testSuite.LandingPageTest - Navigated to Login Page
+01-17-21-17-45-21 [main] DEBUG testSuite.LandingPageTest - Clicked on Login Button
+01-17-21-17-45-31 [main] INFO  testSuite.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-17-45-32 [main] INFO  testSuite.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-17-50-12 [main] INFO  testSuite.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-17-50-13 [main] INFO  testSuite.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-17-50-13 [main] INFO  testSuite.LandingPageTest - Navigated to Login Page
+01-17-21-17-50-17 [main] DEBUG testSuite.LandingPageTest - Clicked on Login Button
+01-17-21-17-50-26 [main] INFO  testSuite.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-17-50-27 [main] INFO  testSuite.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-06-54 [main] INFO  testSuite.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-18-06-55 [main] INFO  testSuite.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-06-55 [main] INFO  testSuite.LandingPageTest - Navigated to Login Page
+01-17-21-18-07-00 [main] DEBUG testSuite.LandingPageTest - Clicked on Login Button
+01-17-21-18-07-10 [main] INFO  testSuite.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-18-07-11 [main] INFO  testSuite.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-12-00 [main] INFO  testSuite.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-18-12-00 [main] INFO  testSuite.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-12-00 [main] INFO  testSuite.LandingPageTest - Navigated to Login Page
+01-17-21-18-12-05 [main] DEBUG testSuite.LandingPageTest - Clicked on Login Button
+01-17-21-18-12-14 [main] INFO  testSuite.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-18-12-15 [main] INFO  testSuite.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-14-40 [main] INFO  testSuite.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-18-14-41 [main] INFO  testSuite.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-14-41 [main] INFO  testSuite.LandingPageTest - Navigated to Login Page
+01-17-21-18-14-46 [main] DEBUG testSuite.LandingPageTest - Clicked on Login Button
+01-17-21-18-14-55 [main] INFO  testSuite.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-18-14-55 [main] INFO  testSuite.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-16-08 [main] INFO  testSuite.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-18-16-09 [main] INFO  testSuite.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-16-09 [main] INFO  testSuite.LandingPageTest - Navigated to Login Page
+01-17-21-18-16-13 [main] DEBUG testSuite.LandingPageTest - Clicked on Login Button
+01-17-21-18-16-22 [main] INFO  testSuite.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-18-16-23 [main] INFO  testSuite.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-19-35 [main] INFO  StepDefinitions.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-18-19-36 [main] INFO  StepDefinitions.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-19-36 [main] INFO  StepDefinitions.LandingPageTest - Navigated to Login Page
+01-17-21-18-20-52 [main] INFO  StepDefinitions.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-18-20-52 [main] INFO  StepDefinitions.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-20-57 [main] DEBUG StepDefinitions.LandingPageTest - Clicked on Login Button
+01-17-21-18-21-08 [main] INFO  StepDefinitions.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-18-21-09 [main] INFO  StepDefinitions.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-21-13 [main] DEBUG StepDefinitions.LandingPageTest - Clicked on Login Button
+01-17-21-18-21-24 [main] INFO  StepDefinitions.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-18-21-25 [main] INFO  StepDefinitions.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-21-26 [main] DEBUG StepDefinitions.LandingPageTest - Clicked on Login Button
+01-17-21-18-23-51 [main] INFO  testSuite.LandingPageTest - Bowser Initailaized:firefox
+01-17-21-18-23-52 [main] INFO  testSuite.LandingPageTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0
+01-17-21-18-23-52 [main] INFO  testSuite.LandingPageTest - Navigated to Login Page
+01-17-21-18-23-57 [main] DEBUG testSuite.LandingPageTest - Clicked on Login Button
+01-17-21-18-24-05 [main] INFO  testSuite.OPDRegTest - Bowser Initailaized:firefox
+01-17-21-18-24-06 [main] INFO  testSuite.OPDRegTest - Url passsed in browser: http://10.197.8.17/hmis/UDesktop?mode=0

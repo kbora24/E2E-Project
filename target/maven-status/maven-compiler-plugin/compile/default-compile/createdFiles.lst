@@ -1,0 +1,5 @@
+PageObjectRepository\HomePage.class
+Framework\App.class
+Framework\Connection.class
+PageObjectRepository\WorkSpace.class
+Framework\Reports.class

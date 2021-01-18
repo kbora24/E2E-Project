@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="testSuite.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="OPDReg Validation(failed)">
+    <classes>
+      <class name="testSuite.OPDRegTest">
+        <methods>
+          <include name="OutpatientVisitsLinkDisplayed"/>
+          <include name="closeDriver"/>
+          <include name="InvokeBrowser"/>
+        </methods>
+      </class> <!-- testSuite.OPDRegTest -->
+    </classes>
+  </test> <!-- OPDReg Validation(failed) -->
+</suite> <!-- Failed suite [Suite] -->
